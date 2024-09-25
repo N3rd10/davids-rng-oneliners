@@ -10,6 +10,7 @@ const lines = [
   'hello world',
   'chiken in five worlds of gods and men controll the emotions of the men and the life and will of reality.',
   'the edges hurt when i think it it it it hurts to blead in the computer it itit willl alsways be help me i iiiiiiii the eges cut when i think.',
+  'I swear if another lesbian couple get together in my cabin I will blow some brains out',
   
 ];
 
