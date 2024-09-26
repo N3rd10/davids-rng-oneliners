@@ -13,6 +13,7 @@ const lines = [
   'I swear if another lesbian couple get together in my cabin I will blow some brains out',
   'yesterday upon the stairs i meght a man who was not there he wasent there again today oh how i wish hed go away.',
   'I got a weren stuck on a robot.',
+  'Geeze you tattoed my name  on your lowr back more people have seen that then the phone book.', 
 ];
 
 // Add an event listener to the button
